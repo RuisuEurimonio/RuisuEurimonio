@@ -15,12 +15,12 @@
     <br/>
     <p> ╔━━━━━━━━━━━━◆❃◆━━━━━━━━━━━━╗ </p>
     <ul>
-      <li> <b> Name: </b> Luis. </li>
-      <li> <b> Nickname: </b> Ruisu. </li>
-      <li> <b> Gender: </b> Male. </li>
-      <li> <b> Age: </b> 19. </li>
-      <li> <b> Mother tongue: </b> Spanish. </li>
-      <li> <b> Tastes: </b> The technology, games, anime and music. </li>
+      <li> <b> 👻 Name: </b> Luis. 👻 </li>
+      <li> <b> ❄️ Nickname: </b> Ruisu. ❄️ </li>
+      <li> <b> 🔥 Gender: </b> Male. 🔥 </li>
+      <li> <b> 💢 Age: </b> 19. 💢 </li>
+      <li> <b> 👅 Mother tongue: </b> Spanish. 👅 </li>
+      <li> <b> 🤟 Tastes: </b> The technology, games, anime and music. 🤟 </li>
     </ul>
     <p> ╚━━━━━━━━━━━━◆❃◆━━━━━━━━━━━━╝ </p>
     <br/>
@@ -58,11 +58,13 @@
  
   <div>
     <h2 align="center"> ㄒ卄闩𝓝长丂 ﾁㄖ尺 山闩セ⼕卄讠𝓝Ꮆ. 😄 🚀 </h2>
+    <p align="center"> <img src="https://c.tenor.com/rza_O7Gdk9UAAAAC/anime-bye.gif"/> </p>
     <p align="center">
-    <p align="center"> <img src="https://profile-counter.glitch.me/RuisuEurimonio/count.svg"> </p>
-      <a href="https://www.linkedin.com/in/luis-felipe-linares-perdomo/" target="_blank"> <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=success&style=for-the-badge&logo=Linkedin&"/> </a>
+    <a href="https://www.linkedin.com/in/luis-felipe-linares-perdomo/" target="_blank" align="center"> <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=Linkedin&"/> </a>
+    <a href="https://www.youtube.com/channel/UCFvky9iVzvGlPCcJvv2NZbw" target="_blank" align="center"> <img src="https://img.shields.io/static/v1?label=&message=Youtube&color=FF0000&style=for-the-badge&logo=youtube"/> </a>
     </p>
     <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=This+is+only+the+beginning;of+something+really;big.+.+."> </p>
     <p align="center"> <img src="https://profile-counter.glitch.me/RuisuEurimonio/count.svg"> </p>
   </div>
+  
 </body>
