@@ -29,7 +29,7 @@
   
   <div>
     <h2 align="center"> 🔘 🧠 长𝓝ㄖ山㇄🝗ᗪᎶ🝗丂. 🧠 ✔️ </h2>
-    <img src="https://c.tenor.com/VrUxJZFdmIsAAAAC/anime-excited.gif" align="right"/>
+    <img width="20em" src="https://c.tenor.com/VrUxJZFdmIsAAAAC/anime-excited.gif" align="right"/>
     <br/>
     <p> ╔━━━━━━━━━◆❃◆━━━━━━━━━╗ </p>
     <p align="center">
