@@ -1,7 +1,7 @@
 <body>
   
   <div>
-    <h1 align="center"> 🔘 💻 山🝗㇄⼕ㄖ爪🝗 七ㄖ 爪丫 尸尺ㄖﾁ讠㇄🝗 💻 ✔️ </h1>
+    <h1 align="center"> 💻 山🝗㇄⼕ㄖ爪🝗 七ㄖ 爪丫 尸尺ㄖﾁ讠㇄🝗 💻  </h1>
     <p align="center"> ஜ۩۞۩¤═══════════════════════════¤ ❖ ¤═══════════════════════════¤۩۞۩ஜ </p>
     <p align="center">
       <img src="https://user-images.githubusercontent.com/93040363/149045061-5daa6ccc-c2a6-45f0-8fb7-82f2755e32b5.gif" style=""/>
@@ -29,8 +29,7 @@
   
   <div>
     <h2 align="center"> 🔘 🧠 长𝓝ㄖ山㇄🝗ᗪᎶ🝗丂. 🧠 ✔️ </h2>
-    <img width="400rem" src="https://c.tenor.com/VrUxJZFdmIsAAAAC/anime-excited.gif" align="right"/>
-    <br/>
+    <img width="410rem" src="https://c.tenor.com/VrUxJZFdmIsAAAAC/anime-excited.gif" align="right"/>
     <p align="center"> ╔━━━━━━━━━◆❃◆━━━━━━━━━╗ </p>
     <p align="center">
       <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1El&style=for-the-badge&logo=javascript"/> 
@@ -55,7 +54,7 @@
   </div>
  
   <div>
-    <h2 align="center"> ㄒ卄闩𝓝长丂 ﾁㄖ尺 山闩セ⼕卄讠𝓝Ꮆ. 😄 🚀 </h2>
+    <h2 align="center"> 🔘 🚀 ㄒ卄闩𝓝长丂 ﾁㄖ尺 山闩セ⼕卄讠𝓝Ꮆ. 🚀 ✔️ </h2>
     <p align="center"> <img src="https://c.tenor.com/rza_O7Gdk9UAAAAC/anime-bye.gif"/> </p>
     <p align="center">
     <a href="https://www.linkedin.com/in/luis-felipe-linares-perdomo/" target="_blank" align="center"> <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=Linkedin&"/> </a>
