@@ -49,7 +49,6 @@
       <img src="https://img.shields.io/static/v1?label=&message=PremierePro&color=informational&style=for-the-badge&logo=AdobePremierePro"/>
       <img src="https://img.shields.io/static/v1?label=&message=AfterEffects&color=informational&style=for-the-badge&logo=AdobeAfterEffects"/>
     </p>  
-    <br/>
     <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuisuEurimonio&layout=compact&theme=tokyonight"/></p>
     <p align="center"> ╚━━━━━━━━━◆❃◆━━━━━━━━━╝ </p>
     <br/>
