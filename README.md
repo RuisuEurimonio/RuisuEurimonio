@@ -45,7 +45,6 @@
       <img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=informational&style=for-the-badge&logo=MongoDB"/> 
       <img src="https://img.shields.io/static/v1?label=&message=Git&color=success&style=for-the-badge&logo=Git"/>
     </p>
-    <br/>
     <p align="center">
       <img src="https://img.shields.io/static/v1?label=&message=PremierePro&color=informational&style=for-the-badge&logo=AdobePremierePro"/>
       <img src="https://img.shields.io/static/v1?label=&message=AfterEffects&color=informational&style=for-the-badge&logo=AdobeAfterEffects"/>
