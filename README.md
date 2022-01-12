@@ -13,7 +13,7 @@
     <h2 align="center"> 🔘 🗼 闩⻏ㄖㄩ七 爪🝗 🗼 ✔️ </h2>
     <img src="https://c.tenor.com/E5ZvfSABuQUAAAAC/work-surprise.gif" align="right"/>
     <br/>
-    <p> ╔━━━━━━━━━━━━◆❃◆━━━━━━━━━━━━╗ </p>
+    <p> ╔━━━━━━━━━◆❃◆━━━━━━━━━╗ </p>
     <ul>
       <li> <b> 👻 Name: </b> Luis. 👻 </li>
       <li> <b> ❄️ Nickname: </b> Ruisu. ❄️ </li>
@@ -22,7 +22,7 @@
       <li> <b> 👅 Mother tongue: </b> Spanish. 👅 </li>
       <li> <b> 🤟 Tastes: </b> The technology, games, anime and music. 🤟 </li>
     </ul>
-    <p> ╚━━━━━━━━━━━━◆❃◆━━━━━━━━━━━━╝ </p>
+    <p> ╚━━━━━━━━━◆❃◆━━━━━━━━━╝ </p>
     <br/>
     <br/>
   </div>
@@ -31,7 +31,7 @@
     <h2 align="center"> 🔘 🧠 长𝓝ㄖ山㇄🝗ᗪᎶ🝗丂. 🧠 ✔️ </h2>
     <img src="https://c.tenor.com/VrUxJZFdmIsAAAAC/anime-excited.gif" align="right"/>
     <br/>
-    <p> ╔━━━━━━━━━━━━◆❃◆━━━━━━━━━━━━╗ </p>
+    <p> ╔━━━━━━━━━◆❃◆━━━━━━━━━╗ </p>
     <p align="center">
       <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1El&style=for-the-badge&logo=javascript"/> 
       <img src="https://img.shields.io/static/v1?label=&message=Java&color=007396&style=for-the-badge&logo=java"/> 
@@ -52,7 +52,7 @@
     </p>  
     <br/>
     <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuisuEurimonio&layout=compact&theme=tokyonight"/></p>
-    <p> ╚━━━━━━━━━━━━◆❃◆━━━━━━━━━━━━╝ </p>
+    <p> ╚━━━━━━━━━◆❃◆━━━━━━━━━╝ </p>
     <br/>
   </div>
  
