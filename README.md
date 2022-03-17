@@ -34,7 +34,6 @@
     <p align="center">
       <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1El&style=for-the-badge&logo=javascript"/> 
       <img src="https://img.shields.io/static/v1?label=&message=Java&color=007396&style=for-the-badge&logo=java"/> 
-      <img src="https://img.shields.io/static/v1?label=&message=Python&color=brightgreen&style=for-the-badge&logo=Python"/> 
       <img src="https://img.shields.io/static/v1?label=&message=React&color=informational&style=for-the-badge&logo=React"/>
       <img src="https://img.shields.io/static/v1?label=&message=JQuery&color=0769AD&style=for-the-badge&logo=JQuery"/> 
       <img src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=success&style=for-the-badge&logo=Bootstrap"/> 
