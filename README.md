@@ -27,28 +27,32 @@
     <br/>
   </div>
   
-  <div>
-    <h2 align="center"> 🔘 🧠 长𝓝ㄖ山㇄🝗ᗪᎶ🝗丂. 🧠 ✔️ </h2>
-    <img width="200rem" src="https://c.tenor.com/VrUxJZFdmIsAAAAC/anime-excited.gif" align="right"/>
-    <p align="center"> ╔━━━━━━━━━◆❃◆━━━━━━━━━╗ </p>
-    <p align="center">
-      <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1El&style=for-the-badge&logo=javascript"/> 
-      <img src="https://img.shields.io/static/v1?label=&message=Java&color=007396&style=for-the-badge&logo=java"/> 
-      <img src="https://img.shields.io/static/v1?label=&message=React&color=informational&style=for-the-badge&logo=React"/>
-      <img src="https://img.shields.io/static/v1?label=&message=JQuery&color=0769AD&style=for-the-badge&logo=JQuery"/> 
-      <img src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=success&style=for-the-badge&logo=Bootstrap"/> 
-      <img src="https://img.shields.io/static/v1?label=&message=SpringFrameWork&color=informational&style=for-the-badge&logo=Spring"/>  
-      <img src="https://img.shields.io/static/v1?label=&message=Oracle&color=F80000&style=for-the-badge&logo=oracle"/> 
-      <img src="https://img.shields.io/static/v1?label=&message=MySql&color=blueviolet&style=for-the-badge&logo=MySql"/>  
-      <img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=informational&style=for-the-badge&logo=MongoDB"/> 
-      <img src="https://img.shields.io/static/v1?label=&message=Git&color=success&style=for-the-badge&logo=Git"/>
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/static/v1?label=&message=PremierePro&color=informational&style=for-the-badge&logo=AdobePremierePro"/>
-      <img src="https://img.shields.io/static/v1?label=&message=AfterEffects&color=informational&style=for-the-badge&logo=AdobeAfterEffects"/>
-    </p>  
-    <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuisuEurimonio&layout=compact&theme=tokyonight"/></p>
-    <p align="center"> ╚━━━━━━━━━◆❃◆━━━━━━━━━╝ </p>
+  <div style="display: flex;">
+    <div>
+      <h2 align="center"> 🔘 🧠 长𝓝ㄖ山㇄🝗ᗪᎶ🝗丂. 🧠 ✔️ </h2>
+      <img width="400rem" src="https://c.tenor.com/VrUxJZFdmIsAAAAC/anime-excited.gif" align="right"/>
+    </div>
+    <div>
+      <p align="center"> ╔━━━━━━━━━◆❃◆━━━━━━━━━╗ </p>
+      <p align="center">
+        <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1El&style=for-the-badge&logo=javascript"/> 
+        <img src="https://img.shields.io/static/v1?label=&message=Java&color=007396&style=for-the-badge&logo=java"/> 
+        <img src="https://img.shields.io/static/v1?label=&message=React&color=informational&style=for-the-badge&logo=React"/>
+        <img src="https://img.shields.io/static/v1?label=&message=JQuery&color=0769AD&style=for-the-badge&logo=JQuery"/> 
+        <img src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=success&style=for-the-badge&logo=Bootstrap"/> 
+        <img src="https://img.shields.io/static/v1?label=&message=SpringFrameWork&color=informational&style=for-the-badge&logo=Spring"/>  
+        <img src="https://img.shields.io/static/v1?label=&message=Oracle&color=F80000&style=for-the-badge&logo=oracle"/> 
+        <img src="https://img.shields.io/static/v1?label=&message=MySql&color=blueviolet&style=for-the-badge&logo=MySql"/>  
+        <img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=informational&style=for-the-badge&logo=MongoDB"/> 
+        <img src="https://img.shields.io/static/v1?label=&message=Git&color=success&style=for-the-badge&logo=Git"/>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/static/v1?label=&message=PremierePro&color=informational&style=for-the-badge&logo=AdobePremierePro"/>
+        <img src="https://img.shields.io/static/v1?label=&message=AfterEffects&color=informational&style=for-the-badge&logo=AdobeAfterEffects"/>
+      </p>  
+      <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuisuEurimonio&layout=compact&theme=tokyonight"/></p>
+      <p align="center"> ╚━━━━━━━━━◆❃◆━━━━━━━━━╝ </p>
+    </div>
     <br/>
   </div>
  
