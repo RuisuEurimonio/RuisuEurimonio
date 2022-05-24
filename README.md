@@ -29,7 +29,7 @@
   
   <div>
     <h2 align="center"> 🔘 🧠 长𝓝ㄖ山㇄🝗ᗪᎶ🝗丂. 🧠 ✔️ </h2>
-    <img width="400rem" src="https://c.tenor.com/VrUxJZFdmIsAAAAC/anime-excited.gif" align="right"/>
+    <img width="200rem" src="https://c.tenor.com/VrUxJZFdmIsAAAAC/anime-excited.gif" align="right"/>
     <p align="center"> ╔━━━━━━━━━◆❃◆━━━━━━━━━╗ </p>
     <p align="center">
       <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1El&style=for-the-badge&logo=javascript"/> 
