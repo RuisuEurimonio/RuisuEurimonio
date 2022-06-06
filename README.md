@@ -30,7 +30,7 @@
   <div style="display: flex;">
     <div>
       <h2 align="center"> 🔘 🧠 长𝓝ㄖ山㇄🝗ᗪᎶ🝗丂. 🧠 ✔️ </h2>
-      <img width="10px" height="10px" src="https://c.tenor.com/VrUxJZFdmIsAAAAC/anime-excited.gif" align="right"/>
+      <img width="400px" height="300px" src="https://c.tenor.com/VrUxJZFdmIsAAAAC/anime-excited.gif" align="right"/>
     </div>
     <div align="left">
       <p align="center"> ╔━━━━━━━━━◆❃◆━━━━━━━━━╗ </p>
@@ -50,7 +50,7 @@
         <img src="https://img.shields.io/static/v1?label=&message=PremierePro&color=informational&style=for-the-badge&logo=AdobePremierePro"/>
         <img src="https://img.shields.io/static/v1?label=&message=AfterEffects&color=informational&style=for-the-badge&logo=AdobeAfterEffects"/>
       </p>  
-      <p align="center"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuisuEurimonio&layout=compact&theme=tokyonight"/></p>
+      <p align="center"><img width="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuisuEurimonio&layout=compact&theme=tokyonight"/></p>
       <p align="center"> ╚━━━━━━━━━◆❃◆━━━━━━━━━╝ </p>
     </div>
     <br/>
