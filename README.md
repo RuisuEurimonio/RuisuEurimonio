@@ -30,7 +30,7 @@
   <div style="display: flex;">
     <div>
       <h2 align="center"> 🔘 🧠 长𝓝ㄖ山㇄🝗ᗪᎶ🝗丂. 🧠 ✔️ </h2>
-      <img width="600px" height="450px" src="https://c.tenor.com/VrUxJZFdmIsAAAAC/anime-excited.gif" align="right"/>
+      <img width="600px" height="430px" src="https://c.tenor.com/VrUxJZFdmIsAAAAC/anime-excited.gif" align="right"/>
     </div>
     <div align="left">
       <p align="center"> ╔━━━━━━━━━◆❃◆━━━━━━━━━╗ </p>
