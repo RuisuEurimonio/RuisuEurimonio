@@ -29,9 +29,9 @@
   
   <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/luis felipe linares perdomo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis felipe linares perdomo" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/luis linares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="luis linares" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@pipelinares2912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@pipelinares2912" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luis-felipe-linares-perdomo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis felipe linares perdomo" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/pipelinares2912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="luis linares" height="30" width="40" /></a>
+<a href="https://exercism.org/profiles/RuisuEurimonio" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/5624255?s=200&v=4" alt="@pipelinares2912" height="30" width="40" /></a>
 </p>
  
   <h3 align="left">Languages and Tools:</h3>
