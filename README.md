@@ -1,16 +1,17 @@
 <body>
   
   <div>
-    <h1 align="center"> 💻 山🝗㇄⼕ㄖ爪🝗 七ㄖ 爪丫 尸尺ㄖﾁ讠㇄🝗 💻  </h1>
+    <h1 align="center">Hi 👋, I'm Luis Linares</h1>
     <p align="center"> ஜ۩۞۩¤═══════════════════════════¤ ❖ ¤═══════════════════════════¤۩۞۩ஜ </p>
     <p align="center">
       <img src="https://user-images.githubusercontent.com/93040363/149045061-5daa6ccc-c2a6-45f0-8fb7-82f2755e32b5.gif" style=""/>
     </p>
     <p align="center"> ஜ۩۞۩¤═══════════════════════════¤ ❖ ¤═══════════════════════════¤۩۞۩ஜ </p>
+    <h3 align="center">A passionate software developer from Colombia</h3>
   </div>
   
   <div>
-    <h2 align="center"> 🔘 🗼 闩⻏ㄖㄩ七 爪🝗 🗼 ✔️ </h2>
+    <h2 align="center"> 🔘 🗼 About Me 🗼 ✔️ </h2>
     <img src="https://c.tenor.com/E5ZvfSABuQUAAAAC/work-surprise.gif" align="right"/>
     <br/>
     <p align="center"> ╔━━━━━━━━━◆❃◆━━━━━━━━━╗ </p>
@@ -18,53 +19,34 @@
       <li> <b> 👻 Name: </b> Luis. 👻 </li>
       <li> <b> ❄️ Nickname: </b> Ruisu. ❄️ </li>
       <li> <b> 🔥 Gender: </b> Male. 🔥 </li>
-      <li> <b> 💢 Age: </b> 19. 💢 </li>
+      <li> <b> 💢 Age: </b> 21. 💢 </li>
       <li> <b> 👅 Mother tongue: </b> Spanish. 👅 </li>
       <li> <b> 🤟 Tastes: </b> The technology, games, anime and music. 🤟 </li>
     </ul>
     <p align="center"> ╚━━━━━━━━━◆❃◆━━━━━━━━━╝ </p>
     <br/>
-    <br/>
   </div>
   
-  <div style="display: flex;">
-    <div>
-      <h2 align="center"> 🔘 🧠 长𝓝ㄖ山㇄🝗ᗪᎶ🝗丂. 🧠 ✔️ </h2>
-      <img width="600px" height="430px" src="https://c.tenor.com/VrUxJZFdmIsAAAAC/anime-excited.gif" align="right"/>
-    </div>
-    <div align="left">
-      <p align="center"> ╔━━━━━━━━━◆❃◆━━━━━━━━━╗ </p>
-      <p align="center">
-        <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1El&style=for-the-badge&logo=javascript"/> 
-        <img src="https://img.shields.io/static/v1?label=&message=Java&color=007396&style=for-the-badge&logo=java"/> 
-        <img src="https://img.shields.io/static/v1?label=&message=React&color=informational&style=for-the-badge&logo=React"/>
-        <img src="https://img.shields.io/static/v1?label=&message=JQuery&color=0769AD&style=for-the-badge&logo=JQuery"/> 
-        <img src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=success&style=for-the-badge&logo=Bootstrap"/> 
-        <img src="https://img.shields.io/static/v1?label=&message=SpringFrameWork&color=informational&style=for-the-badge&logo=Spring"/>  
-        <img src="https://img.shields.io/static/v1?label=&message=Oracle&color=F80000&style=for-the-badge&logo=oracle"/> 
-        <img src="https://img.shields.io/static/v1?label=&message=MySql&color=blueviolet&style=for-the-badge&logo=MySql"/>  
-        <img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=informational&style=for-the-badge&logo=MongoDB"/> 
-        <img src="https://img.shields.io/static/v1?label=&message=Git&color=success&style=for-the-badge&logo=Git"/>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/static/v1?label=&message=PremierePro&color=informational&style=for-the-badge&logo=AdobePremierePro"/>
-        <img src="https://img.shields.io/static/v1?label=&message=AfterEffects&color=informational&style=for-the-badge&logo=AdobeAfterEffects"/>
-      </p>  
-      <p align="center"><img width="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuisuEurimonio&layout=compact&theme=tokyonight"/></p>
-      <p align="center"> ╚━━━━━━━━━◆❃◆━━━━━━━━━╝ </p>
-    </div>
-    <br/>
-  </div>
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/luis felipe linares perdomo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis felipe linares perdomo" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/luis linares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="luis linares" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@pipelinares2912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@pipelinares2912" height="30" width="40" /></a>
+</p>
  
-  <div>
-    <h2 align="center"> 🔘 🚀 ㄒ卄闩𝓝长丂 ﾁㄖ尺 山闩セ⼕卄讠𝓝Ꮆ. 🚀 ✔️ </h2>
-    <p align="center"> <img src="https://c.tenor.com/rza_O7Gdk9UAAAAC/anime-bye.gif"/> </p>
-    <p align="center">
-    <a href="https://www.linkedin.com/in/luis-felipe-linares-perdomo/" target="_blank" align="center"> <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=Linkedin&"/> </a>
-    <a href="https://www.youtube.com/channel/UCFvky9iVzvGlPCcJvv2NZbw" target="_blank" align="center"> <img src="https://img.shields.io/static/v1?label=&message=Youtube&color=FF0000&style=for-the-badge&logo=youtube"/> </a>
-    </p>
-    <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=This+is+only+the+beginning;of+something+really;big.+.+."> </p>
-    <p align="center"> <img src="https://profile-counter.glitch.me/RuisuEurimonio/count.svg"> </p>
-  </div>
+  <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<h3 align="center">Thanks for wathing, see you later</h3>
+
+<div align="center">
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruisueurimonio&show_icons=true&locale=en&layout=compact" alt="ruisueurimonio" /></p>
+</div>
+
+<div align="center">
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ruisueurimonio&show_icons=true&locale=en" alt="ruisueurimonio" /></p>
+</div>
+
+<h6 align="center">Just dream it and create it. . .</h6>
   
 </body>
