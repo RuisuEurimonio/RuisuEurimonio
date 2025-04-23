@@ -19,7 +19,7 @@
       <li> <b> 👻 Name: </b> Luis. 👻 </li>
       <li> <b> ❄️ Nickname: </b> Ruisu. ❄️ </li>
       <li> <b> 🔥 Gender: </b> Male. 🔥 </li>
-      <li> <b> 💢 Age: </b> 21. 💢 </li>
+      <li> <b> 💢 Age: </b> 22. 💢 </li>
       <li> <b> 👅 Mother tongue: </b> Spanish. 👅 </li>
       <li> <b> 🤟 Tastes: </b> The technology, games, anime and music. 🤟 </li>
     </ul>
